@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Чувак привет!</title> 
+...
+   <style>
+     h1 {
+      color: red;
+      background-color: yellow;
+      width: 700px;
+      height: 200px;
+      
+     }
+   </style>
+...
+  </hеad>
+  
+  <body>
+    <h1>Ну, получается зарегился</h1>
+  </body>
+</html>
